@@ -1,7 +1,7 @@
 package jaca.stelius.ecommerce.controller;
 
 import jaca.stelius.ecommerce.model.CatalogCurrency;
-import jaca.stelius.ecommerce.repo.CatalogCurrencyRepository;
+import jaca.stelius.ecommerce.repository.CatalogCurrencyRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

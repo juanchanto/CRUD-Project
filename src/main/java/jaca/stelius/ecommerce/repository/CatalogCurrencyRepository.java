@@ -1,4 +1,4 @@
-package jaca.stelius.ecommerce.repo;
+package jaca.stelius.ecommerce.repository;
 
 import jaca.stelius.ecommerce.model.CatalogCurrency;
 import org.springframework.data.jpa.repository.JpaRepository;
